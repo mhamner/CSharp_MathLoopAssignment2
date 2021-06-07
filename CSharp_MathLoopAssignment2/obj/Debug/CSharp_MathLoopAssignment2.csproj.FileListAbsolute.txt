@@ -1,0 +1,6 @@
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\bin\Debug\CSharp_MathLoopAssignment2.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\bin\Debug\CSharp_MathLoopAssignment2.exe
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\bin\Debug\CSharp_MathLoopAssignment2.pdb
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\obj\Debug\CSharp_MathLoopAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\obj\Debug\CSharp_MathLoopAssignment2.exe
+C:\Users\mark.hamner\source\repos\CSharp_MathLoopAssignment2\CSharp_MathLoopAssignment2\obj\Debug\CSharp_MathLoopAssignment2.pdb
